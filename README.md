@@ -1,2 +1,8 @@
 # TheGamingRoom
 Design Document for Win, Lose or Draw!
+The client entitled, The Gaming Room, inilitially approached us with a new game concept named Win, Lose or Draw! This is a turn based, multiplayer game that will be designed for users on ultiple platforms. 
+We particular detailed the challenges that our team will face during cross platform development. With this knowledge, the client will have an understanding of the difficulties of cross platform development and will be informed of any potential hurtles and delays we may face.
+When working through the design document we found the section on memory allocation especially useful. By creating an application with a minimal storage footprint and efficient load times we are better able to develop the code to procure this application.
+How would you improve it? I would've spent more time researching the Linux system. Linux is a great platform to develop with free open source code. This may still be an alternative direction our team could consider upon further research.
+Why is it so important to consider the user’s needs when designing? We consider the user needs because not only does this promote new business by gaining good rapport with current clients, but this ensures our clients success in launching a new application. We designed the document in hopes to develop a stream line and efficent application.
+We approached this application with first researching what will be difficulties we may face. This educates the team and helps us prepare. In doing so we can negate issues faster and develop alternative approaches if needed. This helps to develop an application in less time and more efficiently. 
